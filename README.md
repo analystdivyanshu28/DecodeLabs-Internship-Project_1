@@ -6,11 +6,13 @@ ________________________________________________________________________________
 # 📁 Dataset Information
 Attribute	Details
 
-Total Rows	1,200
+| Attribute     | Details                      |
+| ------------- | ---------------------------- |
+| Total Rows    | 1,200                        |
+| Total Columns | 14                           |
+| Dataset Type  | Transactional Data           |
+| Tools Used    | Microsoft Excel, Power Query |
 
-Total Columns	14
-Dataset Type	Transactional Data
-Tools Used	Microsoft Excel, Power Query
 _________________________________________________________________________________________________________________________
 # 🎯 Objective
 -Clean and prepare raw data for analysis
