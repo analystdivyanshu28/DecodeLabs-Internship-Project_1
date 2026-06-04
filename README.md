@@ -5,6 +5,7 @@ The primary objective was to transform a raw transactional dataset into a clean,
 _________________________________________________________________________________________________________________________
 # 📁 Dataset Information
 Attribute	Details
+
 Total Rows	1,200
 Total Columns	14
 Dataset Type	Transactional Data
