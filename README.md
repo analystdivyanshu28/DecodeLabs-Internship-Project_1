@@ -15,11 +15,11 @@ Attribute	Details
 
 _________________________________________________________________________________________________________________________
 # 🎯 Objective
--Clean and prepare raw data for analysis
--Standardize inconsistent data formats
--Identify and remove duplicate records
--Handle missing values effectively
--Compare manual Excel cleaning with Power Query automation
+o Clean and prepare raw data for analysis
+o Standardize inconsistent data formats
+Identify and remove duplicate records
+Handle missing values effectively
+Compare manual Excel cleaning with Power Query automation
 _________________________________________________________________________________________________________________________
 # 🧹 Data Cleaning Tasks Performed
 1. Date Format Standardization
