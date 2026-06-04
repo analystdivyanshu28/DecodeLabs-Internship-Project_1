@@ -7,6 +7,7 @@ ________________________________________________________________________________
 Attribute	Details
 
 Total Rows	1,200
+
 Total Columns	14
 Dataset Type	Transactional Data
 Tools Used	Microsoft Excel, Power Query
