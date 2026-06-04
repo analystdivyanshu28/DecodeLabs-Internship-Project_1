@@ -1,35 +1,56 @@
-Week 1 Task - Data Cleaning and Preparation for E-Com Sales Analysis.
-# OVERVIEW
-________________________________________
-This project was completed during 1st week of my Data Analyst Internship at DecodeLabs. The primary objective was to transform a raw dataset into a clean, structured, and analysis-ready format using Microsoft Excel and Excel Power Query.
-# DATASET INFORMATION
-________________________________________
+📊 Week 1 Task – Data Cleaning & Preparation for E-Commerce Sales Analysis.
+# 🔍 Overview
+This project was completed during Week 1 of my Data Analyst Internship at DecodeLabs.
+The primary objective was to transform a raw transactional dataset into a clean, structured, and analysis-ready format using Microsoft Excel and Power Query.
+_________________________________________________________________________________________________________________________
+# 📁 Dataset Information
 Attribute	Details
-Total Rows	              1,200
-Total Columns	              14
-Dataset Type	       Transactional Data
-Tools Used      	Microsoft Excel, Power Query
-# OBJECTIVE
-________________________________________
-•	Clean and prepare raw data for analysis.
-•	Standardize data formats.
-•	Identify and remove duplicate records.
-•	Handle missing values.
-•	Compare manual Excel cleaning with Power Query automation.
-# DATA CLEANING TASK PERFORMED
-________________________________________
+Total Rows	1,200
+Total Columns	14
+Dataset Type	Transactional Data
+Tools Used	Microsoft Excel, Power Query
+_________________________________________________________________________________________________________________________
+# 🎯 Objective
+-Clean and prepare raw data for analysis
+-Standardize inconsistent data formats
+-Identify and remove duplicate records
+-Handle missing values effectively
+-Compare manual Excel cleaning with Power Query automation
+_________________________________________________________________________________________________________________________
+# 🧹 Data Cleaning Tasks Performed
 1. Date Format Standardization
-Converted all date values into a consistent format: DD-MM-YYYY
-2. Currency Format Standardization
-Standardized monetary values using: $ (USD Currency Format)
-3. Duplicate Check
-Examined the dataset for duplicate records. No duplicate entries were found.
-4. Missing Value Treatment
-Identified missing values in the Coupon Code column. Replaced all missing entries with: NO_COUPON
-# DATA PREPARATION TASK PERFORMED
-________________________________________
-1. Alignment.
-All values in rows are aligned to Right Alignment, just for clear data presentation.
-2. Auto-Fit Columns width.
-Columns are Auto-Fit in width with proper whitespace between texts in Header.
 
+All date values were converted into a consistent format:
+➡️ DD-MM-YYYY
+
+2. Currency Format Standardization
+Monetary values were standardized using:
+➡️ $ (USD Currency Format)
+
+3. Duplicate Check
+Checked for duplicate records across the dataset
+✅ No duplicate entries found
+
+4. Missing Value Treatment
+Identified missing values in the Coupon Code column
+Replaced missing entries with:
+➡️ "NO_COUPON"
+_________________________________________________________________________________________________________________________
+# 🛠️ Data Preparation Tasks Performed
+1. Data Alignment
+Applied right alignment to all data values
+Improved readability and consistency
+
+2. Column Formatting
+Applied Auto-Fit to all columns
+Ensured proper spacing and clear header visibility
+_________________________________________________________________________________________________________________________
+# 📌 Key Outcome
+Successfully transformed raw data into a clean and analysis-ready dataset
+Improved data consistency, accuracy, and usability
+Established a strong foundation for EDA and visualization in upcoming phases
+_________________________________________________________________________________________________________________________
+# 🚀 Next Steps
+Perform Exploratory Data Analysis (EDA)
+Generate insights on sales trends, customer behavior, and revenue patterns
+Build dashboards for visualization
