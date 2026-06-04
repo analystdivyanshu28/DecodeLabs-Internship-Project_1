@@ -1,60 +1,97 @@
-📊 Week 1 Task – Data Cleaning & Preparation for E-Commerce Sales Analysis.
-# 🔍 Overview
-This project was completed during Week 1 of my Data Analyst Internship at DecodeLabs.
-The primary objective was to transform a raw transactional dataset into a clean, structured, and analysis-ready format using Microsoft Excel and Power Query.
-_________________________________________________________________________________________________________________________
-# 📁 Dataset Information
-Attribute	Details
+# 📊 Week 1 Task – Data Cleaning & Preparation for E-Commerce Sales Analysis
 
-| Attribute     | Details                      |
-| ------------- | ---------------------------- |
-| Total Rows    | 1,200                        |
-| Total Columns | 14                           |
-| Dataset Type  | Transactional Data           |
-| Tools Used    | Microsoft Excel, Power Query |
+## 📌 Overview
 
-_________________________________________________________________________________________________________________________
-# 🎯 Objective
-o Clean and prepare raw data for analysis
-o Standardize inconsistent data formats
-Identify and remove duplicate records
-Handle missing values effectively
-Compare manual Excel cleaning with Power Query automation
-_________________________________________________________________________________________________________________________
-# 🧹 Data Cleaning Tasks Performed
-1. Date Format Standardization
+This project was completed during **Week 1** of my **Data Analyst Internship at DecodeLabs**. The primary objective was to transform a raw transactional dataset into a clean, structured, and analysis-ready format using **Microsoft Excel** and **Power Query**.
 
-All date values were converted into a consistent format:
-➡️ DD-MM-YYYY
+---
 
-2. Currency Format Standardization
-Monetary values were standardized using:
-➡️ $ (USD Currency Format)
+## 📁 Dataset Information
 
-3. Duplicate Check
-Checked for duplicate records across the dataset
-✅ No duplicate entries found
+| Attribute | Details |
+|------------|---------|
+| Total Rows | 1,200 |
+| Total Columns | 14 |
+| Dataset Type | Transactional Data |
+| Tools Used | Microsoft Excel, Power Query |
 
-4. Missing Value Treatment
-Identified missing values in the Coupon Code column
-Replaced missing entries with:
-➡️ "NO_COUPON"
-_________________________________________________________________________________________________________________________
-# 🛠️ Data Preparation Tasks Performed
-1. Data Alignment
-Applied right alignment to all data values
-Improved readability and consistency
+---
 
-2. Column Formatting
-Applied Auto-Fit to all columns
-Ensured proper spacing and clear header visibility
-_________________________________________________________________________________________________________________________
-# 📌 Key Outcome
-Successfully transformed raw data into a clean and analysis-ready dataset
-Improved data consistency, accuracy, and usability
-Established a strong foundation for EDA and visualization in upcoming phases
-_________________________________________________________________________________________________________________________
-# 🚀 Next Steps
-Perform Exploratory Data Analysis (EDA)
-Generate insights on sales trends, customer behavior, and revenue patterns
-Build dashboards for visualization
+## 🎯 Objectives
+
+- Clean and prepare raw data for analysis.
+- Standardize data formats across the dataset.
+- Identify and remove duplicate records.
+- Handle missing values effectively.
+- Compare manual Excel cleaning with Power Query automation.
+
+---
+
+## 🧹 Data Cleaning Tasks Performed
+
+### 1. Date Format Standardization
+- Converted all date values into a consistent format:
+  - **DD-MM-YYYY**
+
+### 2. Currency Format Standardization
+- Standardized all monetary values using:
+  - **USD Currency Format ($)**
+
+### 3. Duplicate Check
+- Examined the dataset for duplicate records.
+- **Result:** No duplicate entries were found.
+
+### 4. Missing Value Treatment
+- Identified missing values in the **Coupon Code** column.
+- Replaced all missing entries with:
+  - **NO_COUPON**
+
+---
+
+## 🛠️ Data Preparation Tasks Performed
+
+### 1. Data Alignment
+- Applied **Right Alignment** to all data values for better readability and presentation consistency.
+
+### 2. Column Formatting
+- Applied **Auto-Fit Column Width** to all columns.
+- Ensured proper spacing and improved header visibility.
+
+---
+
+## 📊 Tools & Technologies
+
+- Microsoft Excel
+- Excel Power Query
+
+---
+
+## ✅ Project Outcome
+
+The dataset was successfully transformed into a clean, structured, and analysis-ready format by:
+
+- Standardizing date and currency formats.
+- Handling missing values efficiently.
+- Verifying data quality through duplicate checks.
+- Improving dataset presentation and readability.
+
+This prepared the dataset for further analysis, visualization, and business insight generation.
+
+---
+
+## 🚀 Next Steps
+
+- Exploratory Data Analysis (EDA)
+- Sales Performance Analysis
+- Customer Behavior Analysis
+- Dashboard Creation and Visualization
+- Business Insights Generation
+
+---
+
+## 👨‍💻 Internship Project
+
+**Program:** Data Analyst Internship  
+**Organization:** DecodeLabs  
+**Week:** 1  
+**Project:** Data Cleaning & Preparation for E-Commerce Sales Analysis
